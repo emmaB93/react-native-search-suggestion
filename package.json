@@ -1,0 +1,14 @@
+{
+  "name": "react-native-search-suggestion",
+  "version": "1.0.0",
+  "description": "Simple Search Field with auto suggestion",
+  "main": "index.js",
+  "author": "Emanuel Marsicovetere <emma93@gmx.ch>",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/emmaB93/react-native-search-suggestion",
+    "type": "git"
+  },
+  "dependencies": {
+  }
+}
