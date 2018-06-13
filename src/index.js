@@ -75,12 +75,3 @@ export default class SuggestionSearchList extends React.Component {
         )
     }
 }
-
-const styles = StyleSheet.create({
-    searchListContainer: {
-        
-    },
-    searchInput: {
-
-    },
-})
